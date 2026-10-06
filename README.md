@@ -52,6 +52,14 @@ The vehicle was controlled wirelessly using an ESP32-based Bluetooth control sys
 - Battery, motor driver, and ESP32 positioned within the sealed electronics compartment.
 - Wiring kept compact to reduce clutter and power losses.
 
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8ddfd34f-51b1-4c25-8875-28049887d2ad" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/345cae4a-7dd8-46ac-a7be-0a03bc496c63" />
+
+https://github.com/user-attachments/assets/88115eb8-f93d-49ad-b3db-979f8224c284
+
+
 ## Control System
 
 The ESP32 provides wireless Bluetooth control of the vehicle. User commands are transmitted to the ESP32, which controls the motors through the L298N motor driver.
@@ -68,10 +76,6 @@ Bluetooth Controller
  Propeller Propeller
 
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8ddfd34f-51b1-4c25-8875-28049887d2ad" />
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/345cae4a-7dd8-46ac-a7be-0a03bc496c63" />
-
-https://github.com/user-attachments/assets/88115eb8-f93d-49ad-b3db-979f8224c284
 
 
